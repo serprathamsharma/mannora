@@ -1,4 +1,4 @@
-<h1>Welcome to Mannora</h1>
+<h1>Welcome to Mannora!</h1>
 <h2>Project info</h2>
 URL: https://mannora.vercel.app/
 
