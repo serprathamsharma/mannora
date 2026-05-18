@@ -1,6 +1,6 @@
 <h1>Welcome to Mannora!</h1>
 <h2>Project info</h2>
-URL: broken rn 
+URL: mannora.vercel
 
 <h2>How can I edit this code?</h2>
 There are several ways of editing your application.
